@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Cryptizism I am a 15 year old game developer, I am currently working on the following projects/repos:
+### My name is Cryptizism I am a 15 year old wannabe game developer, I am currently working on the following projects/repos:
 1. [Bedwars Tourney bot for discord](https://github.com/Cryptizism/Hypixel-Bedwars-Tourney-Bot)
 2. [A plugin that will make a player in minecraft glow when speaking in a discord server](https://github.com/Cryptizism/discord-voice-activity-minecraft-glow)
 3. [Golf on stream](https://cryptizism.itch.io/golf-on-stream) (deciding whether or not to make Open Source)
