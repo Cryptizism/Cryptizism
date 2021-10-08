@@ -7,4 +7,4 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="16" height="16"/> </a> Golf on stream<br>*A twitch intarctive game where chat tries to play golf and beat it under the timer*
 ## 💬 You wanna talk for some reason? Sure!
 <a href="https://twitter.com/Cryptizism" tagret="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="16" height="16"/> Blue carrier pigeon </a> <br>
-<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Twitter" width="16" height="16"/> Cryptizism#2999<br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/155649008868524032)](https://discord.com/users/155649008868524032)
