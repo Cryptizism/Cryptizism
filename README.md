@@ -8,3 +8,5 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="16" height="16"/> </a> <a href="https://twitch.tv" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="twitch" width="16" height="16"/> </a> Golf on stream<br>*A twitch interactve game where chat tries to play golf and beat it under the timer*
 ## 💬 You wanna talk for some reason? Sure!
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/155649008868524032)](https://discord.com/users/155649008868524032)
+## My music for no reason
+[![LASTFM Last played](https://lastfm-recently-played.vercel.app/api?user=Cryptizism&count=1)](https://www.last.fm/user/Cryptizism)
