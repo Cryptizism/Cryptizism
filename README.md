@@ -1,4 +1,3 @@
-<h1 align="center">I AM CURRENTLY DOING EXAMS</h1>
 <h1 align="center">Hi 👋🏿, I'm Cryptizism</h1>
 <h3 align="center">Student developer who has no idea what they wanna do.. (Like at all)</h3>
 
