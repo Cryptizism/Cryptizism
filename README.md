@@ -13,5 +13,3 @@
 
 ## 💬 Contact
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/155649008868524032)](https://discord.com/users/155649008868524032)
-## 🎧 My music for no reason
-[![LASTFM Last played](https://lastfm-recently-played.vercel.app/api?user=Cryptizism&count=1)](https://www.last.fm/user/Cryptizism)
