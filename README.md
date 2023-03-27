@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏿, I'm Cryptizism</h1>
-<h3 align="center">Software Engineer student</h3>
+<h3 align="center">Student & self-taught developer</h3>
 
 ## 👨🏿‍💻 Current Projects
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a> <a href="https://discord.com/" target="_blank"><a href="https://www.mongodb.com/" target="_blank"><img src="https://citywebconsultants.co.uk/sites/default/files/inline-images/mongo-medium.png" alt="mongodb" width="15" height="15"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="next-js" width="15" height="15"/> </a>[Content Force](https://twitter.com/contentforceapp)<br>*A website that unites content creator and strengthens relations between others and sponsors to better their content and revenue streams* <br>
