@@ -7,3 +7,7 @@ I cannot be bothered to keep this fancy so here's all you need to know:
  - Done dev work for:
    - [MaxGGs](https://twitch.tv/maxggs)
    - [Tubbo](https://twitch.tv/tubbo)
+- Well-known Projects
+  - [Dynamic Tier List](https://github.com/Cryptizism/dynamic-tier-list)
+  - [Abyss Overlay](https://github.com/Chit132/abyss-overlay)
+  - [Chatterdle](https://github.com/Cryptizism/chatterdle)
